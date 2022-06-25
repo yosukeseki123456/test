@@ -1,0 +1,21 @@
+#top{
+  text-align: center;
+}
+
+#tokupon {
+  border: solid 2px gray;
+  width: 100px;
+    background-color: white;
+
+}
+
+#cat {
+  border: solid 2px pink;
+  width: 100px;
+    background-color: white;
+
+}
+
+html{
+  background-color: aliceblue;
+}
